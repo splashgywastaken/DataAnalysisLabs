@@ -1,0 +1,8 @@
+1 - Western Europe
+2 - North America
+3 - Latin America and Caribbean
+4 - Middle East and Northern Africa
+5 - Australia and New Zealand
+6 - Southeastern Asia
+7 - Central and Eastern Europe
+8 - Eastern Asia
